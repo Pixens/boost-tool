@@ -1,4 +1,4 @@
-import json, requests, os, httpx, base64, time, subprocess, sys, random, platform, hashlib, threading, binascii
+import json, requests, os, httpx, base64, time, subprocess, sys, random, platform, hashlib, threading, binascii, ctypes
 import json as jsond
 from pathlib import Path
 import colorama
